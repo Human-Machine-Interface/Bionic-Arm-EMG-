@@ -15,7 +15,9 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Num. Repetición
 # Equipamento
 - https://www.sparkfun.com/products/13723
+![image](https://user-images.githubusercontent.com/12642226/130650634-e94d2204-c81b-4fa7-a373-25a431a64970.png)
 - https://www.adafruit.com/product/3405
+![image](https://user-images.githubusercontent.com/12642226/130650543-e38258c6-7b9c-43d4-a17e-582c0b966c68.png)
 # Protocolo
 - Los sujetos serán recibidos por personal encargado de llevar a cabo el experimento que los atenderá amablemente. El personal evitará utilizar batas blancas o vestimenta médica, pero tampoco se utilizará colores llamativos que distraigan la atención de los sujetos durante el experimento.
 - El personal encargado del experimento respetara las medidas de bioseguridad ante el riesgo del COVID-19, las medidas dispuestas por el ministerio de salud publica del gobierno del Ecuador incluyen: uso obligatorio de mascarillas, área de experimentación ventilada, superficies de contacto debidamente desinfectadas, así como limpieza de todos los utensilios utilizados antes y después de cada experimento. [https://www.salud.gob.ec/medidas-de-proteccion-basicas-contra-el-nuevo-coronavirus/]
