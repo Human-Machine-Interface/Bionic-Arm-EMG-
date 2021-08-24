@@ -15,9 +15,9 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Num. Repetición
 # Equipamento
 - https://www.sparkfun.com/products/13723
-![image](https://user-images.githubusercontent.com/12642226/130650634-e94d2204-c81b-4fa7-a373-25a431a64970.png)
+- ![image](https://user-images.githubusercontent.com/12642226/130650634-e94d2204-c81b-4fa7-a373-25a431a64970.png)
 - https://www.adafruit.com/product/3405
-![image](https://user-images.githubusercontent.com/12642226/130650543-e38258c6-7b9c-43d4-a17e-582c0b966c68.png)
+- ![image](https://user-images.githubusercontent.com/12642226/130650543-e38258c6-7b9c-43d4-a17e-582c0b966c68.png)
 # Protocolo
 - Los sujetos serán recibidos por personal encargado de llevar a cabo el experimento que los atenderá amablemente. El personal evitará utilizar batas blancas o vestimenta médica, pero tampoco se utilizará colores llamativos que distraigan la atención de los sujetos durante el experimento.
 - El personal encargado del experimento respetara las medidas de bioseguridad ante el riesgo del COVID-19, las medidas dispuestas por el ministerio de salud publica del gobierno del Ecuador incluyen: uso obligatorio de mascarillas, área de experimentación ventilada, superficies de contacto debidamente desinfectadas, así como limpieza de todos los utensilios utilizados antes y después de cada experimento. [https://www.salud.gob.ec/medidas-de-proteccion-basicas-contra-el-nuevo-coronavirus/]
@@ -41,13 +41,13 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Durante una sesión el sujeto deberá realizar las 30 tareas arriba indicadas con las extremidades superiores o inferiores según sea el caso.
 - Después de cada sesión, el sujeto podrá descansar por el período de tiempo que crea conveniente.
 Cada sujeto de prueba vera en pantalla imágenes características que indicaran la tarea a realizar:
-![image](https://user-images.githubusercontent.com/12642226/130650042-4e310018-5247-482b-a3c0-2120ced9f03c.png)
+- ![image](https://user-images.githubusercontent.com/12642226/130650042-4e310018-5247-482b-a3c0-2120ced9f03c.png)
 - Registrar un baseline con el sujeto en descanso sin ningún estímulo visual:
-![Descanso](https://user-images.githubusercontent.com/12642226/130650240-e25dc326-b05e-4d90-8bc7-f84dd6f60484.jpg)
+- ![Descanso](https://user-images.githubusercontent.com/12642226/130650240-e25dc326-b05e-4d90-8bc7-f84dd6f60484.jpg)
 - Registro de actividad motora en mano derecha (RCH):
-![SupDe](https://user-images.githubusercontent.com/12642226/130650261-cc5c3da0-e950-4981-9432-06b19fbad697.jpg)
+- ![SupDe](https://user-images.githubusercontent.com/12642226/130650261-cc5c3da0-e950-4981-9432-06b19fbad697.jpg)
 - Registro de actividad motora en mano izquierda (RLH):
-![SupIz](https://user-images.githubusercontent.com/12642226/130650275-7973c4cb-c8e6-4bfc-826c-986eab8cd651.jpg)
+- ![SupIz](https://user-images.githubusercontent.com/12642226/130650275-7973c4cb-c8e6-4bfc-826c-986eab8cd651.jpg)
 
 
 
