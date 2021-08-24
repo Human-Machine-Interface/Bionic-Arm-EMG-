@@ -36,13 +36,16 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Registrar 30 tareas motoras (M) en forma aleatoria con tiempos aleatorios entre 4s de duración, intercaladas por 4s de descanso con ojos abiertos viendo monitor y relajando todos los músculos del cuerpo.
 - Ejecución de movimiento, cerrar mano izquierda (LCH)
 - Ejecución de movimiento, cerrar mano derecha (RCH)
-- Ejecución de movimiento, flexión dorsal de pie izquierdo (LDF)
-- Ejecución de movimiento, flexión plantar de pie izquierdo (LPF)
-- Ejecución de movimiento, flexión dorsal de pie derecho (RDF)
-- Ejecución de movimiento, flexión plantar de pie derecho (RPF)
-
-
-
+- Durante una sesión el sujeto deberá realizar las 30 tareas arriba indicadas con las extremidades superiores o inferiores según sea el caso.
+- Después de cada sesión, el sujeto podrá descansar por el período de tiempo que crea conveniente.
+Cada sujeto de prueba vera en pantalla imágenes características que indicaran la tarea a realizar:
+![image](https://user-images.githubusercontent.com/12642226/130650042-4e310018-5247-482b-a3c0-2120ced9f03c.png)
+- Registrar un baseline con el sujeto en descanso sin ningún estímulo visual:
+![Descanso](https://user-images.githubusercontent.com/12642226/130650240-e25dc326-b05e-4d90-8bc7-f84dd6f60484.jpg)
+- Registro de actividad motora en mano derecha (RCH):
+![SupDe](https://user-images.githubusercontent.com/12642226/130650261-cc5c3da0-e950-4981-9432-06b19fbad697.jpg)
+- Registro de actividad motora en mano izquierda (RLH):
+![SupIz](https://user-images.githubusercontent.com/12642226/130650275-7973c4cb-c8e6-4bfc-826c-986eab8cd651.jpg)
 
 
 
