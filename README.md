@@ -1,3 +1,6 @@
+# ToDos
+- Definir las tareas motoras
+
 # Bionic-Arm-EMG-
 # Database Example
 - https://www.rami-khushaba.com/electromyogram-emg-repository.html
