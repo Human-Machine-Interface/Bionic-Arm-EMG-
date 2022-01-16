@@ -1,0 +1,12 @@
+bleak==0.12.1
+keras==2.7.0
+keras_nightly==2.5.0.dev2021032900
+matplotlib==3.3.3
+nest_asyncio==1.5.1
+numpy==1.19.5
+opencv_python_headless==4.5.4.58
+pandas==1.2.3
+pytictoc==1.5.2
+scikit_learn==1.0.2
+tensorflow==2.6.0
+winrt==1.0.21033.1
